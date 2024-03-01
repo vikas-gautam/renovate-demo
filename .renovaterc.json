@@ -4,5 +4,5 @@
     "config:base"
   ],
   "baseBranches": ["release"],
-  "dependencyDashboard": true
+  "dependencyDashboard": false
 }
